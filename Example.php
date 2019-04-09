@@ -1,0 +1,2 @@
+< ? PHP
+Echo "hello world !" ;
